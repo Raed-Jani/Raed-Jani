@@ -70,17 +70,19 @@ I'm a software engineering student based in Tunisia, passionate about building *
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raed-Jani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raed-Jani&layout=compact&hide_border=true&theme=tokyonight" height="160"/>
-</div>
 
+
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raed-Jani&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raed-Jani&theme=tokyonight" height="180"/>
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raed_Jani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raed-jani-635005383/)
 
 
