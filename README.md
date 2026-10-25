@@ -1,89 +1,59 @@
-<div align="center">
+# Hi, I'm Raed Jani 👋
 
-# Hi there, I'm Raed Jani! 👋
+I'm a software engineering student at **INSAT, Tunisia**. I enjoy building useful applications that look good, feel intuitive and have clean, well-structured code behind them.
 
-### Software Engineering Student @ INSAT, Tunisia
+I'm exploring different areas of software engineering through hands-on projects.
 
+**Open to internships, part-time opportunities and collaborative projects.**
 
-<br/>
+[LinkedIn](https://www.linkedin.com/in/raed-jani-635005383/) · [Try my Elden Ring calculator](https://raed-jani.github.io/soulslike-build-planner/)
 
-🟢 **Open to internships, part-time roles & collaborative projects** 
+## Selected Projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=Raed-Jani&color=6C63FF&style=flat-square&label=Profile+Views)
+### Elden Ring Damage Calculator
 
-</div>
+A browser-based tool for comparing different weapons or two configurations of the same weapon. Supports independent attributes, affinities, upgrade levels and handling, with attack rating, status buildup and spell scaling calculations.
 
----
+- Implemented A/B comparisons, requirement warnings and versioned share links.
+- Added responsive layouts, affinity scaling previews and documented calculation formulas.
+- Includes unit and golden integration tests.
 
-## 🧑‍💻 About Me
+**Stack:** TypeScript, React, Vite  
+[Live demo](https://raed-jani.github.io/soulslike-build-planner/) · [Source code](https://github.com/Raed-Jani/soulslike-build-planner)
 
-I'm a software engineering student based in Tunisia, passionate about building **clean,creative and well-architected applications** 
+### BioVera Pro — Pharmacy Management
 
-- 🎓 Studying at **INSAT** (National Institute of Applied Science and Technology)
-- 🏗️ I care about **clean architecture**, readable code, and great user experience
-- 🌍 Looking to collaborate on **open-source projects**, AI tools, or innovative apps
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raed-jani-635005383/)
+A desktop application for pharmacy operations, including point of sale, role-based access, supplier tracking, PDF reports and an audit log.
 
----
+**Stack:** Java, JavaFX, MySQL, jpackage  
+[Source code](https://github.com/Raed-Jani/pharmacy_management_system)
 
+### Film Festival API
 
-## 🛠️ My Technical Toolbox
+A REST API modeling film-festival workflows, including film management, jury voting, scheduling and award selection.
 
-### Languages
+**Stack:** Java, Spring Boot, H2, Maven  
+[Source code](https://github.com/Raed-Jani/Film-Festival-API)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### INSATivity — University Events
 
-### Frameworks & Tools
+A collaborative platform for INSAT student events, with event filtering, a calendar, a club directory and an organizer dashboard. A separate Symfony version uses MVC, Doctrine ORM and Twig.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Stack:** PHP, JavaScript, Symfony, Twig, Supabase, PostgreSQL  
+[Original project](https://github.com/AbdelAziz-Mseddi/INSATivity) · [Symfony version](https://github.com/AbdelAziz-Mseddi/INSATivity-Symfony)
 
-### Databases
+## Technologies
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Languages:** Java, TypeScript, JavaScript, Python, PHP, C, C++
+- **Frontend:** React, HTML, CSS, JavaFX
+- **Backend:** Spring Boot, Symfony
+- **Databases:** MySQL, PostgreSQL, H2
+- **Tools:** Git, Maven, Vite, Postman
 
----
+## Get in Touch
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 💊 [BioVera Pro](https://github.com/Raed-Jani/pharmacy_management_system) | Full-featured pharmacy management desktop app with POS, role-based access, supplier tracking, PDF reports & audit log | Java, JavaFX, MySQL, jpackage |
-| 🎬 [Film Festival API](https://github.com/Raed-Jani/Film-Festival-API) | RESTful backend simulating a Cannes-style festival — film management, jury voting, scheduling & automated palmares | Java, Spring Boot, H2, REST API, Maven|
-| 🎓 [INSATivity](https://github.com/AbdelAziz-Mseddi/INSATivity) | University event platform for INSAT students with event filters, calendar view, club directory & organizer dashboard | HTML, CSS, PHP, JS, Supabase, PostgreSQL |
-| ♻️ [INSATivity — Symfony](https://github.com/AbdelAziz-Mseddi/INSATivity-Symfony) | Full rewrite of INSATivity using Symfony MVC, Doctrine ORM & Twig — same product, production-grade architecture | Symfony, PHP, Twig, PostgreSQL |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raed-Jani&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raed-Jani&theme=tokyonight" height="180"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
+Interested in working together or discussing an internship opportunity?  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/raed-jani-635005383/).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raed_Jani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raed-jani-635005383/)
 
 
