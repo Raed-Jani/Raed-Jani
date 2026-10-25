@@ -54,10 +54,3 @@ A collaborative platform for INSAT student events, with event filtering, a calen
 
 Interested in working together or discussing an internship opportunity?  
 [Connect with me on LinkedIn](https://www.linkedin.com/in/raed-jani-635005383/).
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raed_Jani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raed-jani-635005383/)
-
-
-
-💬 Always open to a good conversation — whether it's a project idea, an internship opportunity, or just swapping notes on clean code and AI. Don't hesitate to reach out!
-
-</div>
