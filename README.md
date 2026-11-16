@@ -6,7 +6,7 @@ I'm exploring different areas of software engineering through hands-on projects.
 
 **Open to internships, part-time opportunities and collaborative projects.**
 
-[LinkedIn](https://www.linkedin.com/in/raed-jani-635005383/) · [Try my Elden Ring calculator](https://raed-jani.github.io/soulslike-build-planner/)
+[Profile Website](https://raed-jani.github.io/) · [LinkedIn](https://www.linkedin.com/in/raed-jani-635005383/) · [Email](mailto:raedjani7@gmail.com) · [Try my Elden Ring calculator](https://raed-jani.github.io/soulslike-build-planner/)
 
 ## Selected Projects
 
@@ -52,5 +52,4 @@ A collaborative platform for INSAT student events, with event filtering, a calen
 
 ## Get in Touch
 
-Interested in working together or discussing an internship opportunity?  
-[Connect with me on LinkedIn](https://www.linkedin.com/in/raed-jani-635005383/).
+For internships or collaborations, email [raedjani7@gmail.com](mailto:raedjani7@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/raed-jani-635005383/).
